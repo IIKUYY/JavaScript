@@ -40,13 +40,13 @@ If you are working on a project of React, the classes will affect the appereance
 
 ```html
 <ul>
-  <li id="user-andrew" class="offline">
+  <li class="offline" id="user-andrew">
     Andrew
   <li>
-  <li id="user-beatrice" class="offline">
+  <li class="offline" id="user-beatrice">
     Beatrice
   <li>
-  <li id="user-chen" class="online">
+  <li class="online" id="user-chen">
     Chen
   <li>
 </ul>
